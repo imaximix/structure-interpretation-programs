@@ -1,1 +1,6 @@
-1. Building Abstractions with Procedures
+Building Abstractions with Procedures
+
+**Computational Processes** are abstract beings that live inside our computers.
+
+As *Processes* evolve they manipulate abstract things called **Data**. Their evolution is directed by a pattern of rules called a **Program**.
+*People create programs to direct processes*
