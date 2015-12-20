@@ -31,3 +31,12 @@ Combinations of expressions are called compound expressions and represent the ap
 **Define** allows us to keep track of results of compound expressions.
 
 ### 1.1.3 Evaluating Combination
+Evaluation has two simple rules: **evaluate the subexpressions of the combination** and **apply the procedure, value of the leftmost expression, to the arguments, that are the values of the other subexpressions**
+```
+(+ (* 2 3) 4)
+```
+There are exception to this rule.
+```
+(define x 5)
+```
+These are called **special forms**.
