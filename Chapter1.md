@@ -42,8 +42,9 @@ There are exception to this rule.
 These are called **special forms**.
 
 ### 1.1.4 Compound Procedures
-*Procedure definitions* a power abstraction technique by which a compound procedure can pe given a name and then referred to as a unit.
-E.g.
+*Procedure definitions* a powerfull abstraction technique by which a compound procedure can pe given a name and then referred to as a unit.
+
+Below is an example of **compund procedure**. It has the name **square**, and it represents the operation of multiplying something with itself.
 ```
 (defn square [x] (* x x))
 ```
