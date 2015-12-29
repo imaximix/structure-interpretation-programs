@@ -41,5 +41,5 @@ There are exception to this rule.
 ```
 These are called **special forms**.
 
-### 1.1.3 Compound Procedures
+### 1.1.4 Compound Procedures
 
