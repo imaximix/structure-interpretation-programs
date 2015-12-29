@@ -48,3 +48,4 @@ Below is an example of **compund procedure**. It has the name **square**, and it
 ```
 (defn square [x] (* x x))
 ```
+Thoughts: Compound procedures are just combinations of operations.
