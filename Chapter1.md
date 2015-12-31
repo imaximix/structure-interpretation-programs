@@ -51,5 +51,6 @@ Below is an example of **compund procedure**. It has the name **square**, and it
 Thoughts: Compound procedures are just combinations of operations.
 
 ### 1.1.5 The substitution model for procedure application
+There are two types of evaluation: *applicative-order evaluation* and *normal-order evaluation*
 
 ### 1.1.6 Conditional expressions and predicates
