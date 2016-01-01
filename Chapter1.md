@@ -83,3 +83,16 @@ Exercises:
  (else -1))
  (+ a 1)) => **16**
 ```
+1.2
+```
+(/ (+ 5 4 (- 2 (- 3 (+ 6 (/ 4 3))))) (* 3 (- 6 2) (- 2 7)))
+```
+1.3
+```
+(defn sum [& numbers]
+ (map square (take-last 2 (order numbers))))
+```
+1.4
+a and b get evaluated first, then the left most expressions gets evaluated and the params get applied to it.
+
+1.5
