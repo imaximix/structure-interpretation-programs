@@ -96,3 +96,4 @@ Exercises:
 a and b get evaluated first, then the left most expressions gets evaluated and the params get applied to it.
 
 1.5
+Can't understand yet. Come back later.
