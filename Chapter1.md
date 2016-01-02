@@ -97,3 +97,6 @@ a and b get evaluated first, then the left most expressions gets evaluated and t
 
 1.5
 Can't understand yet. Come back later.
+
+### 1.1.7 Example: Square Roots by Newton’s Method
+Tracking progress
