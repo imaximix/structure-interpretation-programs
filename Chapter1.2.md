@@ -59,3 +59,5 @@ Exercise 1.12
             (pascal-triangle (- row 1) column) 
             (pascal-triangle (- row 1) column - 1))))
 ```
+
+### 1.2.3 Order of Growth
