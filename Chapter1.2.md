@@ -3,7 +3,7 @@
 ### 1.2.1 Linear Recursion and Iteration
 
 Exercise 1.10
-
+```
 (A 1 10)
 (A 1 (A 1 9))
 (A 1 (A 1 (A 1 8)))
@@ -23,8 +23,8 @@ Exercise 1.10
 (A 1 (A 1 (A 0 128)))
 (A 1 (A 0 256))
 (A 0 512)
-1024
-
+;; 1024
+```
 
 ### 1.2.2 Tree recursion
 
