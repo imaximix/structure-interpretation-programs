@@ -61,3 +61,10 @@ Exercise 1.12
 ```
 
 ### 1.2.3 Order of Growth
+
+### 1.1.4 Exponentiation
+
+### 1.2.5 Greatest Common Divisors
+
+### 1.2.6 Example: Testing for Primality
+
