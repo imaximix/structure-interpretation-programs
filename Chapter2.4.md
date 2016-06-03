@@ -1,1 +1,1 @@
-## 2.3 Multiple Representation for Abstract Data
+## 2.4 Multiple Representation for Abstract Data
